@@ -5,11 +5,10 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-
   return (
     <>
      <div>
-      <h1>My Name is Ahmad</h1>
+      <h1>Welcome to App.jsx file</h1>
      </div>
     </>
   )
